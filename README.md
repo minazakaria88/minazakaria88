@@ -7,13 +7,21 @@ I'm a **Flutter Developer** passionate about building high-performance, cross-pl
 - Focused on **performance optimization**, **clean code**, and **modular architecture**
 - Love solving complex problems and collaborating with teams
 
-## My Tech Stack
-- **Languages:** Dart, Python, C++
-- **Frameworks:** Flutter, Firebase
-- **Architecture:** MVVM, MVC, Clean Architecture, SOLID Principles
-- **Tools:** Git, GitHub, REST APIs, Google Maps API, WooCommerce API
-- **Others:** Android (Java/XML), Localization, Payment Gateways
 
+## 🛠️ Skills
+
+| Category | Technologies |
+|-----------|-------------|
+| **Mobile** | Flutter, Responsive UI, Localization, Google Maps, Payment Gateways |
+| **State Management** | Bloc, Cubit, Riverpod, GetX |
+| **Architecture** | Clean Architecture, MVVM, MVC, SOLID, Design Patterns |
+| **Backend** | Firebase, RESTful APIs |
+| **Languages** | Dart, Python, C++, Java |
+| **Android** | Java, XML |
+| **Testing & DevOps** | Unit Testing, CI/CD |
+| **Tools** | Git, GitHub |
+| **Computer Science** | Algorithms & Data Structures, OOP |
+| **Deployment** | Google Play, App Store |
 ## Featured Projects
 - **[Ghayti – Driver](https://play.google.com/store/apps/details?id=com.GDriver.DriverG)** , ** [Ghayti – Rider](https://play.google.com/store/apps/details?id=com.GRider.RiderG)**: Real-time ride-hailing app with maps, Firebase auth, and payments.
 - **[oborkom](https://play.google.com/store/apps/details?id=com.obor.oborkom&hl=ar)** , ** [ oborkom Driver](https://play.google.com/store/apps/details?id=com.elnooronline.obourkom_driver&hl=ar)**: is a smart logistics and on-demand delivery application that connects users with truck drivers for moving goods, furniture, and vehicles across Egypt and Saudi Arabia.
